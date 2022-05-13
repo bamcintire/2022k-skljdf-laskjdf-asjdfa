@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65.014" height="71.881" viewBox="0 0 445 492">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0c43e1;
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 30px;
+      }
+
+      .cls-3 {
+        fill: #050505;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: "DIN Condensed";
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-size: 48px;
+        fill: #faf8f8;
+      }
+    </style>
+    <path id="text-path"/>
+  </defs>
+  <path id="Color_Fill_1" data-name="Color Fill 1" class="cls-1" d="M195,101c68.383-1.091,136.4.869,189,17,18.39,5.64,48.919,9.625,49,33-2.928,2.959-4.62,7.533-8,10-25.787,18.827-65.471,19.635-102,28-14.869,3.405-30.582-.291-46,3-16.142,3.445-65.059,4.727-82,1H173c-19.643-4.384-42.6-2.63-61-7l-19-2c-17.669-4.552-35.874-8.564-51-15-11.687-4.973-24.928-8.46-25-25,2.947-2.942,4.618-7.529,8-10,27.908-20.392,71.148-20.14,111-29Z"/>
+  <text class="cls-2"><textPath xlink:href="#text-path"><tspan class="cls-3">craft sports</tspan></textPath></text>
+  <text id="CRAFT_SPORTS" data-name="CRAFT SPORTS" class="cls-4" x="125.078" y="163.25">CRAFT SPORTS</text>
+</svg>
