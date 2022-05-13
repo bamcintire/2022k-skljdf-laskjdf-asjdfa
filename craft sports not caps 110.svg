@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109.765" height="28.872" viewBox="0 0 441 116">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0c43e1;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 55px;
+        fill: #faf8f8;
+        font-family: "PP Agrandir";
+      }
+    </style>
+  </defs>
+  <path id="Color_Fill_1" data-name="Color Fill 1" class="cls-1" d="M191,9c68.383-1.091,136.4.869,189,17,18.39,5.64,48.919,9.624,49,33-2.928,2.959-4.62,7.533-8,10-25.787,18.827-65.471,19.635-102,28-14.869,3.405-30.582-.291-46,3-16.142,3.445-65.059,4.727-82,1H169c-19.643-4.384-42.6-2.63-61-7L89,92c-17.669-4.552-35.874-8.564-51-15-11.687-4.973-24.928-8.46-25-25,2.947-2.942,4.618-7.529,8-10C48.908,21.608,92.148,21.86,132,13Z"/>
+  <text id="Craft_Sports" data-name="Craft Sports" class="cls-2" x="52.078" y="72.25">Craft Sports</text>
+</svg>
